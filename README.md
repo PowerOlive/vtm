@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/mapsforge/vtm.svg?branch=master)](https://travis-ci.org/mapsforge/vtm)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](http://www.gnu.org/licenses/lgpl-3.0)
 
-## 开源地图，欢迎学习或使用的码农们去 https://www.openstreetmap.org/ 注册个账号完善下地图信息。
+## 开源地图，欢迎学习或使用的码农们去 https://www.openstreetmap.org/ 注册个账号完善下地图信息。请遵守相关国家或地区的规定！
 
 # V™
 
